@@ -1,0 +1,1 @@
+./r>a.inp;./a<a.inp>a.out;./b<a.inp>b.out;diff a.out b.out
